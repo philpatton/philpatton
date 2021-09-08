@@ -1,6 +1,6 @@
 My name is Philip T. Patton (phil, @philpatton). Iʻm a graduate research assistant in the Marine Mammal Research Program at the University of Hawaiʻi at Mānoa.
 
-Currently, I research ways to improve population assessments of whales that live around the Main Hawaiian Islands. Specifically, Iʻm working to improve the data pipeline such that we are better able to translate messy photos into usable data. 
+Currently, I research ways to improve population assessments of whales that live around the Main Hawaiian Islands. Specifically, Iʻm working to improve our data pipeline such that we are better able to translate messy photos into usable data. 
 
 To that end, Iʻm developing deep learning algorithms that identify individual whales, and possibly estimate volume, from a large photo-ID library.
 
