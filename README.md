@@ -2,7 +2,7 @@ My name is Philip T. Patton (phil, @philpatton). Iʻm a graduate research assist
 
 Currently, I research ways to improve population assessments of whales that live around the Main Hawaiian Islands. Specifically, Iʻm working to improve our data pipeline such that we are better able to translate messy photos into usable data. 
 
-To that end, Iʻm developing deep learning algorithms that identify individual whales, and possibly estimate volume, from a large photo-ID library.
+To that end, Iʻm developing deep learning algorithms that identify individual whales, and possibly estimate volume, from a large database of whale photos.
 
 Previously, I studied ways to improve estimates of species distribution, aka where we find species, particularly when species interact and when the data contains sampling errors. The **cowbird** repository shows one way to analyze these data when species interact. 
 
