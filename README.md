@@ -4,7 +4,7 @@ Currently, I research ways to improve population assessments of whales that live
 
 To that end, Iʻm developing deep learning algorithms that identify individual whales, and possibly estimate volume, from a large database of whale photos.
 
-Previously, I studied ways to improve estimates of species distribution, aka where we find species, particularly when species interact and when the data contains sampling errors. The [https://github.com/philpatton/cowbird](cowbird) repository shows one way to analyze these data when species interact. 
+Previously, I studied ways to improve estimates of species distribution, aka where we find species, particularly when species interact and when the data contains sampling errors. The [cowbird](https://github.com/philpatton/cowbird) repository shows one way to analyze these data when species interact. 
 
 Iʻm always looking for potential collaborators! Please feel free to email me, pattonp@hawaii.edu, or dm me on twitter, @philidota.
 
