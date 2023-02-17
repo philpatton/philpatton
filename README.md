@@ -1,10 +1,10 @@
-My name is Philip T. Patton (Phil, @philpatton). Iʻm a graduate research assistant in the [Marine Mammal Research Program](https://www.mmrphawaii.org/) at the University of Hawaiʻi at Mānoa. I'm a [NOAA QUEST Fellow](https://www.fisheries.noaa.gov/content/quantitative-ecology-and-socioeconomics-training-quest-program), meaning that I'm also advised by the [Cetacean Research Program](https://www.fisheries.noaa.gov/pacific-islands/about-us/whale-and-dolphin-surveys-pacific-islands) at the [Pacific Islands Fisheries Science Center](https://www.fisheries.noaa.gov/about/pacific-islands-fisheries-science-center). 
+My name is Philip T. Patton (Phil, @philpatton). Iʻm a graduate research assistant in the [Marine Mammal Research Program](https://www.mmrphawaii.org/) at the University of Hawaiʻi at Mānoa. I'm a [NOAA QUEST Fellow](https://www.fisheries.noaa.gov/content/quantitative-ecology-and-socioeconomics-training-quest-program), meaning that also work with the [Cetacean Research Program](https://www.fisheries.noaa.gov/pacific-islands/about-us/whale-and-dolphin-surveys-pacific-islands) at the [Pacific Islands Fisheries Science Center](https://www.fisheries.noaa.gov/about/pacific-islands-fisheries-science-center). 
 
-Currently, I research ways to improve population assessments of whales that live around the Main Hawaiian Islands. Specifically, Iʻm working to improve our data pipeline such that we are better able to translate messy photos into usable data.
+Currently, I research ways to improve population assessments of toothed whales that live in the Main Hawaiian Islands. This includes developing machine learning tools for automated photo--identification of these animals, understanding how these automated tools interact with traditional capture recapture models, and estimating demographic parameters using cutting edge methods in capture recapture.
 
 I did my master's research with [Krishna Pacifici](https://faculty.cnr.ncsu.edu/krishnapacifici/people/) at North Carolina State University, where I studied ways to improve estimates of species distribution, aka where we find species, particularly when species interact and when the data contains sampling errors. The [cowbird](https://github.com/philpatton/cowbird) repository shows one way to analyze these data when species interact. 
 
-Iʻm always looking for potential collaborators! Please feel free to email me, pattonp@hawaii.edu, or dm me on twitter, @philidota.
+Please feel free to email me, pattonp@hawaii.edu, if you would like to get in touch.
 
 Thanks for looking! 
 
