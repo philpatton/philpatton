@@ -2,7 +2,7 @@ My name is Philip T. Patton (Phil, @philpatton). Iʻm a graduate research assist
 
 Currently, I research ways to improve population assessments of toothed whales that live in the Main Hawaiian Islands. This includes automating photo-identification of these animals, understanding how these automated tools interact with traditional capture recapture models, and estimating demographic parameters using cutting edge methods in capture recapture.
 
-I did my master's research with [Krishna Pacifici](https://faculty.cnr.ncsu.edu/krishnapacifici/people/) at North Carolina State University, where I studied ways to improve estimates of species distribution, aka where we find species, particularly when species interact and when the data contains sampling errors. The [cowbird](https://github.com/philpatton/cowbird) repository shows one way to analyze these data when species interact. 
+I did my master's research with [Krishna Pacifici](https://cnr.ncsu.edu/directory/krishna-pacifici/) at North Carolina State University, where I studied ways to improve estimates of species distribution, aka where we find species, particularly when species interact and when the data contains sampling errors. The [cowbird](https://github.com/philpatton/cowbird) repository shows one way to analyze these data when species interact. 
 
 Please feel free to email me, pattonp@hawaii.edu, if you would like to get in touch.
 
